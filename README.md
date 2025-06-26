@@ -28,7 +28,7 @@ A full-featured blog platform with authentication and role-based permissions bui
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/blog-platform.git
+git clone https://github.com/dipeshkumar6465/Role-Based-Access-Control-System
 cd blog-platform
 
 
