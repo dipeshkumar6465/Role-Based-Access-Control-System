@@ -10,7 +10,7 @@ A full-featured blog platform with authentication and role-based permissions bui
 - **React** (Frontend)
 - **Node.js** (Runtime)
 
-## Features
+### Features
 
 - 🔐 JWT Authentication (Login/Register)
 - 👥 Role-Based Access Control (Admin/User)
